@@ -1,0 +1,29 @@
+# Core SmolAgents dependencies
+smolagents>=1.0.0
+transformers>=4.40.0
+huggingface_hub>=0.20.0
+
+# Model providers
+torch>=2.0.0
+litellm>=1.0.0
+
+# Data processing and visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Web interface
+streamlit>=1.28.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Optional: For enhanced security (sandbox execution)
+# e2b>=0.1.0
+
+# For better error handling and logging
+rich>=13.0.0
